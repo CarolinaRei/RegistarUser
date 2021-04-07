@@ -34,7 +34,7 @@ else
     console.log("DB Connected Successfully");
 
 // Porto Servidor
-var port = process.env.PORT || 8080;
+var port = process.env.PORT || 5000;
 
 
 //Usar API routes na app
